@@ -13,7 +13,7 @@ Run Driver1. It will print the exception in error.txt if an is raised.
 If there is none, it will print the data in the console. 
 You can also change the file to data.txt which contains no errors.
 
-# Part II
+## Part II
 For part2, use Driver2. It uses the same code as Driver1 to read the data. 
 Change the file path in the try block for data.txt. Make sure to use data.txt and
 not dataerror.txt. In Util.java, in the serialize method, change the file path
